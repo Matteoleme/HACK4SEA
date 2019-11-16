@@ -16,14 +16,14 @@ HACKATHLON Santa Severa
 
 
 
-# BACKAND
+# BACKEND
 
 
 
 
 
 
-# FRONTAND 
+# FRONTEND 
 
 
 
